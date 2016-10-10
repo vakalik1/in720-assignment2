@@ -4,7 +4,7 @@ You will have to create a folder in your C://Users/<your_username> drive called 
 
 [AWS Default]
 
-aws_access_key_id = AKIAI37QWLOWDPP4SMZA
+aws_access_key_id = <my_access_key_id>
 
-aws_secret_access_key = 0WByYEBCcoYMf/vWfSGZM1P3nVlCMgq504Jsi38d
+aws_secret_access_key = <my_secret_access_key>
 
